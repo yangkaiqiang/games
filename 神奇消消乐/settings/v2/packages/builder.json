@@ -1,0 +1,14 @@
+{
+  "splash-setting": {
+    "url": "project://assets/resource/Base/Logo.png",
+    "displayWatermark": false,
+    "totalTime": 0,
+    "displayRatio": 0,
+    "clearColor": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    }
+  }
+}
